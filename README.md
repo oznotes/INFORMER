@@ -20,5 +20,5 @@
 *   Create TODO.txt
 *   When you are done : type DONE
 *   INFORMER will keep pushing you the randoms from your list.
-*   replace will update main.ledger file as well at same time
+
 
