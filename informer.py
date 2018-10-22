@@ -1,7 +1,8 @@
-import balloon
-import random
 import datetime
+import random
 import time
+
+import balloon
 
 
 def time_stamp():
@@ -35,7 +36,7 @@ def getme():
 def ask_and_write(things):
     if write_todo_list(things) is not True:
         return
-        #push_me()
+        # push_me()
 
 
 def send_message():
@@ -55,6 +56,4 @@ def push_me():
 
 
 send_message()
-#push_me()
-
-
+# push_me()
